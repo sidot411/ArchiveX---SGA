@@ -1,2 +1,2 @@
 # ArchiveX---SGA
-Système de gestion des archives - Agence Foncière Oran
+Système de gestion des archives 
