@@ -21,7 +21,7 @@
     </td>
     <td align="center" width="33%">
       <a href="screenshots/02-dossiers.png">
-        <img src="screenshots/02-Dossiers.png" width="250" alt="Files Management"/>
+        <img src="screenshots/06-Dossiers.png" width="250" alt="Files Management"/>
       </a>
       <br/><strong>Files Management</strong>
     </td>
@@ -35,19 +35,19 @@
   <tr>
     <td align="center">
       <a href="screenshots/04-sorties.png">
-        <img src="screenshots/04-Sorties.png" width="250" alt="Checkouts Management"/>
+        <img src="screenshots/05-Boites.png" width="250" alt="Checkouts Management"/>
       </a>
       <br/><strong>Checkouts Management</strong>
     </td>
     <td align="center">
-      <a href="screenshots/05-bon-sortie.png">
-        <img src="screenshots/05-bon-sortie.png" width="250" alt="Checkout Slip"/>
+      <a href="screenshots/09-bon-sortie.png">
+        <img src="screenshots/09-Bon de sortie 2.png" width="250" alt="Checkout Slip"/>
       </a>
       <br/><strong>Checkout Slip</strong>
     </td>
     <td align="center">
       <a href="screenshots/06-recherche.png">
-        <img src="screenshots/06-Recherche.png" width="250" alt="Advanced Search"/>
+        <img src="screenshots/09-bon-sortie 2.png" width="250" alt="Advanced Search"/>
       </a>
       <br/><strong>Advanced Search</strong>
     </td>
@@ -55,13 +55,13 @@
   <tr>
     <td align="center">
       <a href="screenshots/07-articles.png">
-        <img src="screenshots/07-articles.png" width="250" alt="Archive Articles"/>
+        <img src="screenshots/10-Recherche-Avance.png" width="250" alt="Archive Articles"/>
       </a>
       <br/><strong>Archive Articles</strong>
     </td>
     <td align="center">
       <a href="screenshots/08-qr-codes.png">
-        <img src="screenshots/08-qr-codes.png" width="250" alt="QR Code Labels"/>
+        <img src="screenshots/08-Types-articles.png" width="250" alt="QR Code Labels"/>
       </a>
       <br/><strong>QR Code Labels</strong>
     </td>
