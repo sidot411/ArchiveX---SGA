@@ -247,7 +247,7 @@ v_occupation_salles    -- Room occupancy rates
 
 ## 👨‍💻 Developer
 
-**[SID AHMED KHIAT]** - Developer with AI Assistant
+**SID AHMED KHIAT** - Developer with AI Assistant
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sid-ahmed-khiat/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sidot411)
