@@ -35,7 +35,7 @@
   <tr>
     <td align="center">
       <a href="screenshots/04-sorties.png">
-        <img src="screenshots/05-Boites.png" width="250" alt="Checkouts Management"/>
+        <img src="screenshots/09-Bon de sortie.png" width="250" alt="Checkouts Management"/>
       </a>
       <br/><strong>Checkouts Management</strong>
     </td>
@@ -47,7 +47,7 @@
     </td>
     <td align="center">
       <a href="screenshots/06-recherche.png">
-        <img src="screenshots/09-bon-sortie 2.png" width="250" alt="Advanced Search"/>
+        <img src="screenshots/10-Recherche-Avance.png" width="250" alt="Advanced Search"/>
       </a>
       <br/><strong>Advanced Search</strong>
     </td>
@@ -55,41 +55,21 @@
   <tr>
     <td align="center">
       <a href="screenshots/07-articles.png">
-        <img src="screenshots/10-Recherche-Avance.png" width="250" alt="Archive Articles"/>
+        <img src="screenshots/07-Articles.png" width="250" alt="Archive Articles"/>
       </a>
       <br/><strong>Archive Articles</strong>
     </td>
     <td align="center">
-      <a href="screenshots/08-qr-codes.png">
+      <a href="screenshots/08-Types-articles.png">
         <img src="screenshots/08-Types-articles.png" width="250" alt="QR Code Labels"/>
       </a>
-      <br/><strong>QR Code Labels</strong>
+      <br/><strong>Archive Articles Types</strong>
     </td>
     <td align="center">
       <a href="screenshots/09-rapports.png">
         <img src="screenshots/09-rapports.png" width="250" alt="Reports"/>
       </a>
       <br/><strong>Reports & Statistics</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="screenshots/10-parametres.png">
-        <img src="screenshots/10-parametres.png" width="250" alt="Settings"/>
-      </a>
-      <br/><strong>Settings</strong>
-    </td>
-    <td align="center">
-      <a href="screenshots/11-types-articles.png">
-        <img src="screenshots/11-types-articles.png" width="250" alt="Article Types"/>
-      </a>
-      <br/><strong>Article Types & Attributes</strong>
-    </td>
-    <td align="center">
-      <a href="screenshots/12-pieces-jointes.png">
-        <img src="screenshots/12-pieces-jointes.png" width="250" alt="Attachments"/>
-      </a>
-      <br/><strong>Digital Attachments</strong>
     </td>
   </tr>
 </table>
