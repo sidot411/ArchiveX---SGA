@@ -65,12 +65,7 @@
       </a>
       <br/><strong>Archive Articles Types</strong>
     </td>
-    <td align="center">
-      <a href="screenshots/09-rapports.png">
-        <img src="screenshots/09-rapports.png" width="250" alt="Reports"/>
-      </a>
-      <br/><strong>Reports & Statistics</strong>
-    </td>
+   
   </tr>
 </table>
 
