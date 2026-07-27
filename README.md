@@ -30,7 +30,7 @@
 ![Sorties](screenshots/09-Bon de sortie.png)
 
 ### Bon de Sortie (Impression)
-![Bon de Sortie](screenshots/09-Bon de sortie 2.png)
+![Bon de Sortie](screenshots/09-Bon de sortie-2.png)
 
 ### Recherche Avancée
 ![Recherche](screenshots/10-Recherche Avance.png)
