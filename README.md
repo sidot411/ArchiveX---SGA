@@ -21,13 +21,13 @@
     </td>
     <td align="center" width="33%">
       <a href="screenshots/02-dossiers.png">
-        <img src="screenshots/02-dossiers.png" width="250" alt="Files Management"/>
+        <img src="screenshots/02-Dossiers.png" width="250" alt="Files Management"/>
       </a>
       <br/><strong>Files Management</strong>
     </td>
     <td align="center" width="33%">
       <a href="screenshots/03-boites.png">
-        <img src="screenshots/03-boites.png" width="250" alt="Boxes Management"/>
+        <img src="screenshots/05-Boites.png" width="250" alt="Boxes Management"/>
       </a>
       <br/><strong>Boxes Management</strong>
     </td>
@@ -35,7 +35,7 @@
   <tr>
     <td align="center">
       <a href="screenshots/04-sorties.png">
-        <img src="screenshots/04-sorties.png" width="250" alt="Checkouts Management"/>
+        <img src="screenshots/04-Sorties.png" width="250" alt="Checkouts Management"/>
       </a>
       <br/><strong>Checkouts Management</strong>
     </td>
@@ -47,7 +47,7 @@
     </td>
     <td align="center">
       <a href="screenshots/06-recherche.png">
-        <img src="screenshots/06-recherche.png" width="250" alt="Advanced Search"/>
+        <img src="screenshots/06-Recherche.png" width="250" alt="Advanced Search"/>
       </a>
       <br/><strong>Advanced Search</strong>
     </td>
